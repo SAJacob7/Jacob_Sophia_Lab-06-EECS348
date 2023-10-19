@@ -4,7 +4,7 @@
 using namespace std;
 static const int maximum = 100;
 int matrix_A[maximum][maximum];
-int matrix_B[maximum][maximum];
+int matrix_B[maximum][maximum]; // Hello does this work
 int real_size;
 void read_matrix(); // Test
 void print_matrix();
