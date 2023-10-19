@@ -6,7 +6,7 @@ static const int maximum = 100;
 int matrix_A[maximum][maximum];
 int matrix_B[maximum][maximum];
 int real_size;
-void read_matrix();
+void read_matrix(); // Test
 void print_matrix();
 void matrix_sum();
 void matrix_product();
